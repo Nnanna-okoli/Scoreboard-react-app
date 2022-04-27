@@ -62,7 +62,7 @@ class App extends React.Component {
     state = {
        players: [
         {
-            name: "Guil",
+            name: "Nye",
             id: 1 //providing a unique key to each player in our array of plyers
           },
           {
